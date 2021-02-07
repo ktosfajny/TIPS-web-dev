@@ -1,3 +1,5 @@
+font Awesome link:   <script src="https://use.fontawesome.com/35d3946e90.js"></script>
+
 ![clip-path-skewed-section](/images_for_readme/clip-path-skewed-section.JPG?raw=true "clip-path-skewed-section")
 ![multicolored-font-color](/images_for_readme/multicolored-font-color.JPG?raw=true "multicolored-font-color")
 ![orange-outline](/images_for_readme/orange-outline.PNG?raw=true "orange-outline")
